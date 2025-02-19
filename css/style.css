@@ -84,6 +84,7 @@ header .inner nav ul li a {
 header .inner nav ul li:hover a {
     color: rgb(139, 180, 255);
     text-decoration: underline;
+    cursor: url('../images/mousehover.png') 0 0, auto;
 }
 
 main {}
@@ -393,6 +394,7 @@ footer .inner .je p {
     z-index: 9999;
     border: 1px solid #fff;
     opacity: 0;
+    cursor: url('../images/mousehover.png') 0 0, auto;
 }
 
 .topbtn.down {
